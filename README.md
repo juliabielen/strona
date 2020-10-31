@@ -1,2 +1,2 @@
-#Strona
+# Witam na mojej stronie! :)
 
