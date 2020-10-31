@@ -1,5 +1,5 @@
 # Witam na mojej stronie! :)
-# package pl.Julia.controllers;
+package pl.Julia.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
